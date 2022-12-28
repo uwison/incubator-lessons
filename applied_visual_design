@@ -3,7 +3,7 @@
   text-align: center
     }
     p {
-  text-align: center
+  text-align: justify
     }
     .links {
       margin-right: 20px;
