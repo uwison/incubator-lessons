@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
-  [type='checkbox'] {
+  [type='radio'] {
   margin: 10px 0px 15px 0px;
   }
   .red-text {
